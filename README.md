@@ -1,4 +1,4 @@
-## Oi, sou Moisés Fernandes :)
+## Sou Moisés Fernandes, Desenvolvedor Web
 <div align="center">
   <a href="https://github.com/mssnandes">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mssnandes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
