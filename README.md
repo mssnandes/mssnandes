@@ -14,8 +14,8 @@
   <img align="center" alt="Moises-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Moises-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
   <img align="center" alt="Moises-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Moises-PHP" width="55" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />
+  <img align="center" alt="Moises-PHP" width="40" height="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />
+  <img align="center" alt="Moises-MySql" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mssnandes&bg_color=0d1117&color=48D1CC&line=48D1CC&point=7F3ACE&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
- 
+
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=48D1CC&height=120&section=footer"/>
